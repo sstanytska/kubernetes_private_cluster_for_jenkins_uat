@@ -1,0 +1,1 @@
+# kubernetes_private_cluster_for_jenkins_uat
